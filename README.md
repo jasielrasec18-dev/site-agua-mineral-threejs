@@ -4,7 +4,7 @@ Landing page conceitual de uma marca fictícia de água mineral, com uma garrafa
 
 > ✨ **Feito com um único prompt.** Todo o projeto — HTML, CSS, cena 3D, shaders e simulação de bolhas — foi gerado a partir de **um só prompt** usando o **Claude Fable 5.2**, da Anthropic. Nenhuma linha foi escrita à mão depois disso: o arquivo `index.html` é exatamente o que o modelo entregou.
 
-🔗 **Demo:** _link da Vercel aqui_
+🔗 **Demo:** [site-agua-mineral-threejs.vercel.app](https://site-agua-mineral-threejs.vercel.app)
 
 ---
 
